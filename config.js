@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['9740075693', 'me', true],
+  ['94740075693', 'me', true],
   ['6281255369012', 'Ash', true], 
   [''] 
 ] //Number of owners
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Ka Vee SH'
+global.botname = 'ɪᴛ ᴢᴢ ᴍᴇ 𝘒𝘢 𝘝𝘦𝘦 𝘚𝘏'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = 'ɪᴛ ᴢᴢ ᴍᴇ 𝘒𝘢 𝘝𝘦𝘦 𝘚𝘏' 
+global.author = 'ɪᴛ ᴢᴢ ᴍᴇ 𝘒𝘢 𝘝𝘦𝘦 𝘚𝘏' 
+global.igfg = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞\n' 
+global.dygp = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞'
+global.fgsc = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞' 
+global.fgyt = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞'
+global.fgpyp = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞'
+global.fglog = 'http://wa.me/94740075228?text=❝𝘏𝘌𝘠_𝘬𝘢𝘷𝘦𝘦_🩵💍🌈❞' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
